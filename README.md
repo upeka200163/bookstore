@@ -11,5 +11,6 @@ Features : </br>
   <li>User messaging system for queries and assistance</li>
 </ul>
 </br>
-Output :
-![image](https://github.com/tanishahaha/bookstore/assets/123636127/058007f4-2a15-4e28-9125-201278497939)
+
+<img width="1132" height="545" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/0603fa69-3922-4424-b378-4a1d62a823c0" />
+
